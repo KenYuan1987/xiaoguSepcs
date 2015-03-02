@@ -92,7 +92,7 @@ Pod::Spec.new do |s|
   s.source_files  = "webservice", "webservice/**/*.{h,m}"
   #s.exclude_files = "Classes/Exclude"
 
-  s.public_header_files = "webservice/*.h"
+  s.public_header_files = "webservice/**/*.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
