@@ -93,6 +93,7 @@ Pod::Spec.new do |s|
   #s.exclude_files = "Classes/Exclude"
 
   s.public_header_files = "hybrid/bridge/*.h"
+  s.resource     = "hybrid/bridge/WebViewJavascriptBridge.js.txt"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
