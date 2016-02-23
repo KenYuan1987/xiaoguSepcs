@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "xiaogu_webservice"
-  s.version      = "1.03”
+  s.version      = "1.03"
   s.summary      = "webservice@xiaogu"
 
   s.description  = <<-DESC
