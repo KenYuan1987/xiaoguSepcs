@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "xiaogu_ios_hybrid"
-  s.version      = "1.04”
+  s.version      = "1.04"
   s.summary      = "hybridForIOS@xiaogu"
 
   s.description  = <<-DESC
